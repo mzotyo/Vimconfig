@@ -121,20 +121,20 @@ set udir=c:\\tmp,c:\\temp
 " -----------------------------------------------------------
 " SETTINGS:
 " -----------------------------------------------------------
-source ~/Home/Personal/Vimconfig/plug-config/ack.vim
-source ~/Home/Personal/Vimconfig/plug-config/ale.vim
-source ~/Home/Personal/Vimconfig/plug-config/autocomplete.vim
-source ~/Home/Personal/Vimconfig/plug-config/bookmarks.vim
-source ~/Home/Personal/Vimconfig/plug-config/compilers.vim
-source ~/Home/Personal/Vimconfig/plug-config/filebrowsing.vim
-source ~/Home/Personal/Vimconfig/plug-config/findfiles.vim
-source ~/Home/Personal/Vimconfig/plug-config/folding.vim
-source ~/Home/Personal/Vimconfig/plug-config/formatter.vim
-source ~/Home/Personal/Vimconfig/plug-config/keybinding-git.vim
-source ~/Home/Personal/Vimconfig/plug-config/keybinding-markdown.vim
-source ~/Home/Personal/Vimconfig/plug-config/keybinding-npm.vim
-source ~/Home/Personal/Vimconfig/plug-config/nerd-tree.vim
-source ~/Home/Personal/Vimconfig/plug-config/terminal.vim
+source ~/.vim/plug-config/ack.vim
+source ~/.vim/plug-config/ale.vim
+source ~/.vim/plug-config/autocomplete.vim
+source ~/.vim/plug-config/bookmarks.vim
+source ~/.vim/plug-config/compilers.vim
+source ~/.vim/plug-config/filebrowsing.vim
+source ~/.vim/plug-config/findfiles.vim
+source ~/.vim/plug-config/folding.vim
+source ~/.vim/plug-config/formatter.vim
+source ~/.vim/plug-config/keybinding-git.vim
+source ~/.vim/plug-config/keybinding-markdown.vim
+source ~/.vim/plug-config/keybinding-npm.vim
+source ~/.vim/plug-config/nerd-tree.vim
+source ~/.vim/plug-config/terminal.vim
 
 " setting only for windows vim
-source ~/Home/Personal/Vimconfig/plug-config/wvim-enhancements.vim
+source ~/.vim/plug-config/wvim-enhancements.vim
