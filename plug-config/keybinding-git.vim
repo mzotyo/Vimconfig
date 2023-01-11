@@ -25,11 +25,11 @@ nnoremap <Leader>gf             :Git push -f<Enter>
 nnoremap <Leader>gl             :Git pull<Enter>
 
 " Blame
-nnoremap <Leader>gb             :Git blame<Enter>
+nnoremap <Leader>bl             :Git blame<Enter>
 
 " Checkout
 nnoremap <Leader>gc             :Git checkout<space>
-nnoremap <Leader>gbr            :Git checkout -b<space>
+nnoremap <Leader>gcb            :Git checkout -b<space>
 
 
 " Resolve merge conflicts
@@ -46,4 +46,4 @@ nnoremap <Leader>sa             :Git stash apply<Enter>
 nnoremap <Leader>sw             :Git stash show -p<Enter>
 
 " Load this settings
-nnoremap <Leader>gs             :e ~/.vim/plug-config/keybinding-git.vim<Enter>
+nnoremap <Leader>g              :e ~/.vim/plug-config/keybinding-git.vim<Enter>
