@@ -1,8 +1,7 @@
-set foldmethod=syntax
-
-set nofoldenable
 " set foldmethod=indent
 " set foldmethod=manual
+set foldmethod=syntax
+set nofoldenable
 
 " zo                                                                            " Open fold
 " zc                                                                            " Close fold
