@@ -5,7 +5,13 @@
 let g:ale_fixers = {
 \   '*': ['remove_trailing_lines', 'trim_whitespace'],
 \   'javascript': ['eslint'],
+\   'javascriptreact': ['eslint', 'prettier'],
 \   'typescript': ['tslint', 'prettier'],
+\   'typescriptreact': ['tslint', 'prettier'],
+\   'html': ['html-beautify', 'prettier'],
+\   'css': ['stylelint', 'prettier'],
+\   'python': ['autopep8', 'yapf'],
+\   'json': ['fixjson'],
 \   'java': [ 'uncrustify']
 \}
 
